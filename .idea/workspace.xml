@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../../Go" />
+  <component name="GOROOT" path="$USER_HOME$/Go" />
   <component name="ProjectId" id="1gEBFa2nBg16SqCGDvqegO0kCve" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
